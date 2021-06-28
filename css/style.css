@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #ffff;
+    background-color: #81deee;
 }
 
 #contenedor{
@@ -40,7 +40,7 @@ body{
 
 #footer{
     height: 40%;
-    background-color: #ffff;
+    background-color:  rgb(238, 230, 230);
     border-radius: 3em;
     margin: 3em;
 }
